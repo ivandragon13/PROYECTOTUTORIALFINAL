@@ -1,6 +1,89 @@
-h1{
-    color: rgb(255, 0, 0);
+.titulo .titulo__world{
+    color: rgb(255, 255, 255);
+}
+.titulo{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__categorias{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__preguntas{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__contactos{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__comunidad{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__starwars{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__tortugasninja{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__streetsharks{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__funkopop{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__losamosdeluniverso{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__thundercasts{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__alienvspredador{
+    color: rgb(255, 255, 255);
+}
+.preguntas .preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas .preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas .preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas .preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas .preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas .preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas .preguntas__preg{
+    color: rgb(255, 255, 255);
+}.preguntas .preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas .preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas .preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.titulo .titulo__texto{
+    font-family: "arial";
+}
+.titulo .titulo__world{
+    font-family: "arial";
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
 }
 h2{
-    color: rgb(255, 0, 0);
+    color: white;
 }
+.titulo .titulo__comunidad{
+    color: white;
+}
+h2 {
+    font-family: "arial";
+  }
